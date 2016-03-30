@@ -43,7 +43,6 @@ public class StandardOneActivity extends AppCompatActivity implements View.OnCli
         mGoSingleInstanceOneBtn.setOnClickListener(this);
     }
 
-
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
